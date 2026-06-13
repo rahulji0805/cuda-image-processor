@@ -52,7 +52,7 @@ cuda_image_processor/
 
 ```bash
 # 1. Clone and enter
-git clone <your-repo-url>
+git clone <https://github.com/rahulji0805/cuda-image-processor>
 cd cuda_image_processor
 
 # 2. Generate test images (12 synthetic PPMs, 64px to 1024px)
