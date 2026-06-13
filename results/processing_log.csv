@@ -1,0 +1,13 @@
+filename,width,height,kernel,elapsed_ms
+large_checkerboard_512,512,512,both,321.2101
+large_circles_512,512,512,both,0.1782
+large_gradient_512,512,512,both,0.2414
+large_noise_512,512,512,both,0.1750
+medium_checkerboard_256,256,256,both,0.2020
+medium_circles_256,256,256,both,0.1738
+medium_gradient_256,256,256,both,0.1607
+medium_stripes_256,256,256,both,0.1560
+small_checkerboard_64,64,64,both,0.1659
+small_gradient_64,64,64,both,0.1383
+xlarge_circles_1024,1024,1024,both,0.2283
+xlarge_gradient_1024,1024,1024,both,0.2268

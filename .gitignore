@@ -1,0 +1,5 @@
+image_processor
+data/input/*.ppm
+data/output/*.pgm
+results/*.png
+*.o
